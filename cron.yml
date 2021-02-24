@@ -1,4 +1,4 @@
 cron:
   - description: Watch if funding rates were passed for every users
     url: /api/run
-    schedule: every 1 hours
+    schedule: every 99999 hours
